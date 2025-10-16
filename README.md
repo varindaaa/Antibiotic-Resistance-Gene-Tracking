@@ -5,7 +5,7 @@ A data-driven investigation of NDM-family beta-lactamase genes for public health
 
 This project analyzes the **blaNDM gene** in *Klebsiella pneumoniae* to study antibiotic resistance patterns. By combining **sequence analysis**, **phylogenetics**, and **data exploration**, it uncovers evolutionary relationships and organism distribution.
 
-###🛠 Tools & Technologies
+### 🛠 Tools & Technologies
 
 - **Python** – EDA and data visualization (Pandas, NumPy, Matplotlib, Seaborn)                                                                               - **SQL** – Querying sequence metadata  
 - **MEGA** – Phylogenetic tree construction  
@@ -14,7 +14,7 @@ This project analyzes the **blaNDM gene** in *Klebsiella pneumoniae* to study an
 
 - ## 🔬 Methodology
   
-1. **Sequence Collection & Documentation** Maintained structured, traceable workflows in compliance with **QMS-style practices**.  
+1. **Sequence Collection & Documentation**                                                                                                                      - Maintained structured, traceable workflows in compliance with **QMS-style practices**.  
 
 2. **Sequence Analysis**  
    - Performed BLAST searches to find homologous sequences, ensuring reproducibility.  
