@@ -14,24 +14,25 @@ This project analyzes the **blaNDM gene** in *Klebsiella pneumoniae* to study an
 
 - ## 🔬 Methodology
   
-1. **Sequence Collection & Documentation**  
-   - Maintained structured, traceable workflows in compliance with **QMS-style practices**.   
+1. **📁 Sequence Collection & Documentation**  
+   Maintained **structured, traceable workflows** following **QMS-style practices**, ensuring compliance, reproducibility, and audit-readiness.  
 
-2. **Sequence Analysis**  
-   - Performed BLAST searches to find homologous sequences, ensuring reproducibility.  
+2. **🔬 Sequence Analysis**  
+   Conducted BLAST searches to identify homologous sequences while ensuring reproducibility.  
 
-3. **Dataset Construction**  
-   - Built a curated dataset of **20 NDM sequences**  
-   - Explored features via Python-based EDA  
+3. **🗂 Dataset Construction**  
+   Built a curated dataset of **20 NDM sequences**  
+   Performed Python-based EDA for feature exploration  
 
-4. **Metadata Analysis**  
-   - Queried sequence metadata with SQL to study organism distribution and sequence identity  
+4. **📊 Metadata Analysis**  
+   Queried sequence metadata using SQL to study organism distribution and sequence identity  
 
-5. **Phylogenetic Analysis**  
-   - Constructed trees in MEGA to trace evolutionary relationships  
-
+5. **🌳 Phylogenetic Analysis**  
+   Constructed trees in MEGA to trace evolutionary relationships
+   
 ### 🌟 Key Outcomes
-- Reproducible workflow for NDM gene analysis  
+- Reproducible workflow for NDM gene analysis aligned with **QMS standards**
+-  Audit-ready documentation for sequence collection and analysis
 - Curated dataset ready for downstream research  
 - Visual insights through phylogenetic trees  
 - Metadata-driven understanding of organism distribution  
