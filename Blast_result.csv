@@ -1,0 +1,21 @@
+Protein name,Organism,Sequence ID,Alignment Range,Alignment Length,Score (bits),E-value,%Identity
+Subclass B1 beta-lactamase NDM family protein,Providencia rettgeri,XVM46651,9–278,278,557,0,100%
+Metallo-beta-lactamase type 2,Providencia stuartii,WHE44028,1–270,270,556.2,0,100%
+Subclass B1 beta-lactamase NDM family protein,Providencia rettgeri,XVM46758,36–305,305,556.2,0,100%
+"Chain A, Beta-lactamase NDM-1",Klebsiella pneumoniae,4EXS_A,1–270,270,555.8,0,100%
+Metallo-beta-lactamase NDM-1,Acinetobacter baumannii,ALD19783,2–271,271,555.8,0,100%
+MULTISPECIES: NDM-1,Pseudomonadota,WP_004201164,1–270,270,555.8,0,100%
+NDM family subclass B1 metallo-beta-lactamase,Providencia huaxiensis,WP_369466427,1–270,270,555.4,0,99.60%
+NDM family subclass B1 metallo-beta-lactamase,Salmonella enterica,HAD9259603,1–270,270,555.1,0,99.60%
+NDM family subclass B1 metallo-beta-lactamase,Enterobacter hormaechei subsp. xiangfangensis,HBM2817202,1–270,270,555.1,0,99.60%
+Subclass B1 metallo-beta-lactamase NDM-58,Pseudomonas aeruginosa,WP_290468356,1-270,270,553.1,0,99.63%
+Subclass B1 metallo-beta-lactamase,Citrobacter sedlakii,WP_352465129,1-270,270,553.1,0,99.63%
+Subclass B1 metallo-beta-lactamase NDM-77,Acinetobacter baumannii,WP_408906775,1-270,270,553.1,0,99.63%
+NDM family subclass B1 metallo-beta-lactamase,Enterobacter cloacae sp.,WP_421637281,1-270,270,553.1,0,99.63%
+NDM-1 beta-lactamase,Klebsiella pneumoniae,AGC54622,1-270,270,553.1,0,99.63%
+Carbapenemase,Pseudomonas aeruginosa,AWK23455,1-270,270,553.1,0,99.63%
+NDM family subclass B1 metallo-beta-lactamase,Escherichia coli,EMB0744857,1-270,270,553.1,0,99.89%
+NDM family subclass B1 metallo-beta-lactamase,Enterobacter hormaechei,HAS0941495,1-270,270,553.1,0,99.63%
+NDM family subclass B1 metallo-beta-lactamase,Acinetobacter baumannii,HAV6023762,1-270,270,553.1,0,99.63%
+NDM family subclass B1 metallo-beta-lactamase,Acinetobacter baumannii,HAV6191654,1-270,270,553.1,0,99.63%
+NDM family subclass B1 metallo-beta-lactamase,Klebsiella pneumoniae,HHP1611700,1–270,270,555.4,0,99.60%
