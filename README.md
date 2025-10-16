@@ -15,8 +15,7 @@ This project analyzes the **blaNDM gene** in *Klebsiella pneumoniae* to study an
 
 - ## 🔬 Methodology
   
-1. **Sequence Collection & Documentation**  
-   - Maintained structured, traceable workflows in compliance with **QMS-style practices**.  
+1. **Sequence Collection & Documentation** Maintained structured, traceable workflows in compliance with **QMS-style practices**.  
 
 2. **Sequence Analysis**  
    - Performed BLAST searches to find homologous sequences, ensuring reproducibility.  
