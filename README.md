@@ -38,7 +38,10 @@ This project analyzes the **blaNDM gene** in *Klebsiella pneumoniae* to study an
 
 ### 📂 Repository Structure
 /data → Raw and processed sequence data
+
 /scripts → Python scripts for EDA and analysis
+
 /MEGA → MEGA project files for phylogenetic analysis
+
 /README.md → Project documentation
 
