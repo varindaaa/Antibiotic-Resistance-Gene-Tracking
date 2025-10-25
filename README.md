@@ -12,7 +12,7 @@ This project analyzes the **blaNDM gene** in *Klebsiella pneumoniae* to study an
 - **BLAST** – Identification of homologous sequences  
 - **Excel** – Data collection and preliminary analysis
 
-- ## 🔬 Methodology
+## 🔬 Methodology
   
 1. **📁 Sequence Collection & Documentation**  
    Maintained **structured, traceable workflows** following **QMS-style practices**, ensuring compliance, reproducibility, and audit-readiness.  
