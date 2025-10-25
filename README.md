@@ -54,4 +54,6 @@ NDM-family metallo-beta-lactamase protein alignment generated using MEGA softwar
 ### Neighbor-Joining Tree
 <img width="1716" height="796" alt="Neighbour_joining_tree" src="https://github.com/user-attachments/assets/a25d2beb-d7b7-4681-b96c-a0a3867328e5" />
 
+A Neighbor-Joining (NJ) tree was constructed using MEGA to analyze the evolutionary relationships among the NDM beta-lactamase sequences. NJ was chosen because it is a fast and reliable distance-based method, suitable for closely related sequences. Other phylogenetic methods, including Maximum Likelihood, Minimum Evolution, and Maximum Parsimony, were also tested and produced similar clustering patterns, confirming that the NJ tree accurately represents the relationships among the sequences.
+
 
