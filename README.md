@@ -1,4 +1,4 @@
-<h1>🧬 Sequence-Based Antibiotic Resistance Gene Analysis</h1>
+<img width="959" height="492" alt="MEGA_Alignment" src="https://github.com/user-attachments/assets/2d04e5b4-1c57-4ef9-adc0-a604bc15a3a9" /><h1>🧬 Sequence-Based Antibiotic Resistance Gene Analysis</h1>
 A data-driven investigation of NDM-family beta-lactamase genes for public health and molecular surveillance.
 
 ### 📝 Project Overview-
@@ -47,7 +47,8 @@ This project analyzes the **blaNDM gene** in *Klebsiella pneumoniae* to study an
 /README.md → Project documentation
 
 ## 🧬 Multiple Sequence Alignment (MEGA)
-Below is a snapshot of the NDM-family metallo-beta-lactamase protein alignment generated using MEGA software:
+NDM-family metallo-beta-lactamase protein alignment generated using MEGA software:
 
-![MEGA Alignment](images/mega_alignment.png)
+![MEGA Alignment][Uploading MEGA_Alignment.png…]()
+)
 
