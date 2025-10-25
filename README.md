@@ -7,7 +7,8 @@ This project analyzes the **blaNDM gene** in *Klebsiella pneumoniae* to study an
 
 ### 🛠 Tools & Technologies
 
-- **Python** – EDA and data visualization (Pandas, NumPy, Matplotlib, Seaborn)                                                          - **SQL** – Querying sequence metadata  
+- **Python** – EDA and data visualization (Pandas, NumPy, Matplotlib, Seaborn)
+- **SQL** – Querying sequence metadata  
 - **MEGA** – Phylogenetic tree construction  
 - **BLAST** – Identification of homologous sequences  
 - **Excel** – Data collection and preliminary analysis
