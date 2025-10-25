@@ -49,9 +49,9 @@ This project analyzes the **blaNDM gene** in *Klebsiella pneumoniae* to study an
 ## 🧬 Multiple Sequence Alignment (MEGA)
 NDM-family metallo-beta-lactamase protein alignment generated using MEGA software:
 
-(<img width="959" height="492" alt="MEGA_Alignment" src="https://github.com/user-attachments/assets/2d04e5b4-1c57-4ef9-adc0-a604bc15a3a9" />)
+<img width="959" height="492" alt="MEGA_Alignment" src="https://github.com/user-attachments/assets/2d04e5b4-1c57-4ef9-adc0-a604bc15a3a9" />
 
 ### Neighbor-Joining Tree
-(<img width="1716" height="796" alt="Neighbour_joining_tree" src="https://github.com/user-attachments/assets/a25d2beb-d7b7-4681-b96c-a0a3867328e5" />
-)
+<img width="1716" height="796" alt="Neighbour_joining_tree" src="https://github.com/user-attachments/assets/a25d2beb-d7b7-4681-b96c-a0a3867328e5" />
+
 
